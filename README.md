@@ -1,6 +1,6 @@
 # Codificando-com-Python-DIO-
 
-<img src="https://cdn.discordapp.com/attachments/893692958623268874/1220113361333915798/Captura_de_tela_2024-03-20_175046.png?ex=660dc21d&is=65fb4d1d&hm=c2288bb1b8f0c8a04f35d93b6e35fc460ae10b87bc93e5c5e8c5c2c4b9140297&" />
+<img src="https://cdn.discordapp.com/attachments/893692958623268874/1220113361333915798/Captura_de_tela_2024-03-20_175046.png?ex=6632ac1d&is=6620371d&hm=2ba8295c3144c5471efbc562488abaf27446087097d1b66fb84569e939cb82a9&"/>
 
 1- ``def:`` Esta é uma função que verifica se B corresponde aos últimos dígitos de A. Ela recebe dois argumentos, A e B, que são strings representando números.
 
